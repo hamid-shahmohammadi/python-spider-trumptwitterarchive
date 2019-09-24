@@ -1,0 +1,5 @@
+scrapy startproject trumptwitterarchive
+
+scrapy genspider tweets trumptwitterarchive.com
+
+git checkout -b lesson-52
